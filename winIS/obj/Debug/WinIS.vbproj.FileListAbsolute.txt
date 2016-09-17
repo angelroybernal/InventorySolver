@@ -1,0 +1,21 @@
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\bin\Debug\WinIS.exe.config
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\bin\Debug\WinIS.exe
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\bin\Debug\WinIS.pdb
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\bin\Debug\WinIS.xml
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.frmPresentacion.resources
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.Resources.resources
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.vbproj.GenerateResource.Cache
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.exe
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.xml
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.pdb
+c:\users\cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.frmModulo2.resources
+C:\Users\Cristian\documents\visual studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.frmModelos.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.FrmGráfica.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.FrmModulo1.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.FrmAyuda.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.FrmModulo3.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\WinIS\WinIS\obj\Debug\WinIS.FrmModulo4.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\bin\Debug\WinIS.exe.config
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Debug\WinIS.exe
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Debug\WinIS.xml
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Debug\WinIS.pdb

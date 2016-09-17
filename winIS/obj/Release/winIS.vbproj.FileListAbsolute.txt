@@ -1,0 +1,34 @@
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\bin\Release\WinIS.exe.config
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\bin\Release\WinIS.exe
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\bin\Release\WinIS.pdb
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\bin\Release\WinIS.xml
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.FrmAyuda.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.FrmGráfica.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.FrmModulo1.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.frmModulo2.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.frmModelos.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.FrmModulo3.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.FrmModulo4.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.frmPresentacion.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.Resources.resources
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\winIS.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.exe
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.xml
+C:\Users\Cristian\Documents\Visual Studio 2013\Projects\winIS\WinIS\obj\Release\WinIS.pdb
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\bin\Release\WinIS.exe.config
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.exe
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.xml
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.pdb
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\bin\Release\WinIS.exe
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\bin\Release\WinIS.pdb
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\bin\Release\WinIS.xml
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.FrmAyuda.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.FrmGráfica.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.FrmModulo1.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.frmModulo2.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.frmModelos.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.FrmModulo3.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.FrmModulo4.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.frmPresentacion.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\WinIS.Resources.resources
+\\ANGEL-PC\Users\Public\Documents\winIS\WinIS\obj\Release\winIS.vbproj.GenerateResource.Cache
